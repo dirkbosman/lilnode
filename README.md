@@ -2,7 +2,6 @@
 
 A little vanilla node.js server and some tutorials to get you started :)
 
-
 ## Create a folder `exercises_vanila` then go to this folder in your terminal and execute:
 
 ```
@@ -58,4 +57,4 @@ console.log("Server running at http://127.0.0.1:80/");
 In a file `exercise6.js`:
 
 - Install the module [axios](https://github.com/axios/axios): \$ `npm install axios`
-- Retrieve the html code from `google.com`.
+- Retrieve the html code from `google.com`, or try requests from the Github API.
