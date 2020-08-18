@@ -1,0 +1,23 @@
+{
+  "name": "lilnode",
+  "version": "1.0.0",
+  "description": "A little node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirkbosman/lilnode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirkbosman/lilnode/issues"
+  },
+  "homepage": "https://github.com/dirkbosman/lilnode#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
