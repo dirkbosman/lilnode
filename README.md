@@ -1,10 +1,9 @@
 # lilnode
 
-A little node server and some tutorials to get started :)
+A little vanilla node.js server and some tutorials to get you started :)
 
-# Vanilla NodeJS
 
-Create a folder `exercises_vanila` then go to this folder in your terminal and execute:
+## Create a folder `exercises_vanila` then go to this folder in your terminal and execute:
 
 ```
 npm init -y
